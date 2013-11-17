@@ -30,3 +30,11 @@ Contributors: ++++GETTING STARTED++++ Follow these instructions if using Windows
 18. Edit the cpp and h files in Classes folder (in cocos, in projects, in mygame)
 19. Test on your phone
 20. Edit and push changed to GitHub
+
+GitHub Tutorial:
+1. Download Windows Github
+2. BUT DON'T USE WINDOWS GITHUB...there are some errors with its commits...at least for android
+3. Use the git shell. Just run a search for it on your computer.
+4. Follow this tutorial to familiarize yourself with git. http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+5. YOU CAN IGNORE THE PART ABOUT SSH KEYS. Windows Github does it for you.
+6. I'm still trying to figure out how you would submit edits. I think I would have to approve them.
